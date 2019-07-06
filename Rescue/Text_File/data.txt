@@ -1,0 +1,13 @@
+1	30	98	23	7	ent	pry	ing	ine	tch	tch	ill
+2	10	32	5	4	ado	dor	tch	sla
+3	5	19	1	5	tho	dar	dar	dar	dar
+4	5	11	5	0
+5	7	17	3	3	ard	tho	dar
+6	7	20	4	8	liz	liz	tho	tho	tho	tho	tho	orn
+7	7	19	6	1	ama
+8	9	25	7	2	tho	rny
+9	5	20	0	1	oug
+10	11	30	6	10	tho	hor	hor	hor	hor	urd	tho	rny	oug	orc
+11	5	14	1	0
+12	6	24	3	0
+13	6	28	1	0
